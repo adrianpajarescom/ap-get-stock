@@ -3,7 +3,7 @@
 /**
  * Plugin Name:       adrianpajares.com - Get Stock
  * Plugin URI:        https://github.com/adrianpajarescom/ap-get-stock
- * Description:       Plugin to get the product stock.
+ * Description:       Plugin to get the product stock. Shotcode: [ap_get_stock]
  * Version:           1.0
  * Author:            adrianpajares.com
  * License:           MIT
