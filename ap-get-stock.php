@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name:       adrianpajares.com
+ * Plugin Name:       adrianpajares.com - Get Stock
  * Plugin URI:        https://github.com/adrianpajarescom/ap-get-stock
  * Description:       Plugin to get the product stock.
  * Version:           1.0
