@@ -14,6 +14,11 @@
 
 
 function shortcode_ap_get_stock() {
-return '<p>¡Gracias por leer mi blog!</p>';
+    
+    global $product; 
+    $stock  = $product->get_stock_quantity();
+    $id = get_the_ID();
+
+    return $stock;
 }
 add_shortcode('ap_get_stock', 'shortcode_ap_get_stock');
