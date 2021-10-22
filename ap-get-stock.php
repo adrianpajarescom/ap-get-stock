@@ -9,8 +9,6 @@
  * License:           MIT
  * Domain Path:       /languages
  * Text Domain:       ap-get-stock
- * GitHub Plugin URI: https://github.com/adrianpajarescom/ap-get-stock
- * GitHub Languages:  https://github.com/adrianpajarescom/ap-get-stock
  */
 
 
